@@ -1,4 +1,4 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Contact: Kouhei Sutou <kou at clear-code.com>
 Source: http://packages.groonga.org/source/groonga-normalizer-mysql/
 
