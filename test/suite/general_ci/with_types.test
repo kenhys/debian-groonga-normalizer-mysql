@@ -1,0 +1,3 @@
+register normalizers/mysql
+
+normalize NormalizerMySQLGeneralCI "a1!！あアｱ亜💕 " WITH_TYPES

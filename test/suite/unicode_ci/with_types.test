@@ -1,0 +1,4 @@
+register normalizers/mysql
+
+normalize NormalizerMySQLUnicodeCI "a1!！あアｱ亜💕 " WITH_TYPES
+
