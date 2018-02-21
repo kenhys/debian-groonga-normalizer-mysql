@@ -2,6 +2,18 @@ groonga-normalizer-mysql (1.1.1-4) unstable; urgency=medium
 
   * debian/control
     - Bump debhelper version to 11.
+    - Bump standard version to 4.1.3. No other changes are required.
+    - Remove needless autotools-dev since compatibility level 10.
+    - Add Vcs-* fields
+  * debian/compat
+    - Bump compatibility level to 11.
+  * debian/watch
+    - Use https for the URI.
+  * debian/copyright
+    - Use https for the URI.
+    - Fix copyright-with-old-dh-make-debian-copyright
+  * debian/rules
+    - Remove needless static library.
 
  -- Kentaro Hayashi <hayashi@clear-code.com>  Wed, 21 Feb 2018 21:43:45 +0900
 
