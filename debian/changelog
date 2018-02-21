@@ -1,3 +1,10 @@
+groonga-normalizer-mysql (1.1.1-4) unstable; urgency=medium
+
+  * debian/control
+    - Bump debhelper version to 11.
+
+ -- Kentaro Hayashi <hayashi@clear-code.com>  Wed, 21 Feb 2018 21:43:45 +0900
+
 groonga-normalizer-mysql (1.1.1-3) unstable; urgency=medium
 
   * debian/tests/control
