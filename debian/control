@@ -3,6 +3,8 @@ Section: libs
 Priority: optional
 Maintainer: Groonga Project <packages@groonga.org>
 Uploaders: Kentaro Hayashi <hayashi@clear-code.com>
+Vcs-Git: https://salsa.debian.org/groonga-normalizer-mysql.git
+Vcs-Browser: https://salsa.debian.org/groonga-normalizer-mysql/
 Build-Depends:
   debhelper (>= 11),
   pkg-config,
