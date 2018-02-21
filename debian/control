@@ -5,7 +5,6 @@ Maintainer: Groonga Project <packages@groonga.org>
 Uploaders: Kentaro Hayashi <hayashi@clear-code.com>
 Build-Depends:
   debhelper (>= 11),
-  autotools-dev,
   pkg-config,
   libgroonga-dev (>= 3.0.0)
 Standards-Version: 4.1.3
